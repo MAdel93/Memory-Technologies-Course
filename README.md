@@ -1,0 +1,1 @@
+This course is presented at Amirkabir University of Technology by Dr. Hamed Farbeh. In this course, the structures of various memory technologies, ranging from old to present (from DRAM to ReRAM), are reviewed.
